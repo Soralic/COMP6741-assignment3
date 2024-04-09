@@ -12,8 +12,8 @@
     - Vertex cover algorithm
     - Feedback vertex set
     - Maximum leaf spanning tree
-2. The folder is named after the alogrithms it realized.
-3. Besides of the independant version, a merged version is provided in the root directory together with the project report.
+2. Each folder is named after the alogrithm it realized.
+3. Besides the independant version, a merged version is provided in the root directory together with the project report.
 ## 3. Instructions
 1. To run the code, it requires the following environment:
     - SageMath 9.5
