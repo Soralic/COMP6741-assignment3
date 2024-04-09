@@ -1,6 +1,6 @@
 # COMP6741 Assignment 3
 >[1. Abstract](#abstract)</br>
- [2. Description of contents](#description)
+ [2. Description of contents](#description)</br>
  [3. Instructions](#instructions)
 
 ---
