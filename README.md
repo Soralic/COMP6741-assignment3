@@ -1,7 +1,7 @@
 # COMP6741 Assignment 3
->[<h4>1. Abstract</h4>](#abstract)
- [<h4>2. Description of contents</h4>](#description)
- [<h4>3. Instructions</h4>](#instructions)
+>[1. Abstract](#abstract)</br>
+ [2. Description of contents](#description)
+ [3. Instructions](#instructions)
 
 ---
 <h2 id = "abstract">1. Abstract</h2>
