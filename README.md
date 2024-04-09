@@ -14,7 +14,7 @@
     - Maximum leaf spanning tree
 2. Each folder is named after the alogrithm it realized.
 3. **Specially**, folder for vertex cover algorithm contains three different files as belowed:
-    |<center>file name</center>|<center>comment</center>|
+    |file name|comment|
     |-|-|
     |SR for VC|simplification rule|
     |vc-algo|implementation|
