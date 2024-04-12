@@ -19,7 +19,7 @@
     |SR for VC|simplification rule|
     |vc-algo|implementation|
     |interact version|interactive widget| 
-4. Besides the independant version, a merged version is provided in the root directory together with the project report.
+4. Besides the independant version, a merged version named "Final Version" is provided in the root directory together with the project report.
 ## 3. Instructions
 1. To run the code, it requires the following environment:
     - SageMath 9.5
